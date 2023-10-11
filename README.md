@@ -34,8 +34,8 @@ Here are some projects I'm proud of:
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/wassaf-ali)
-- Portfolio: [Your Website](https://yourwebsite.com)
+- LinkedIn: [Wassaf A.](https://www.linkedin.com/in/wassaf-ali)
+- Portfolio: [Website](https://yourwebsite.com)
 
 
 
