@@ -1,18 +1,17 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Stuck 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-@YourTwitterHandle-blue)](https://twitter.com/yourtwitterhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/wassaf-ali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-orange)](https://yourwebsite.com)
 
-Welcome to my GitHub profile! I'm a passionate [your profession] with a keen interest in [your interests].
+Welcome to my GitHub profile! I'm a passionate learner with a keen interest in creating solutions.
 
 ## About Me
 
-- 🔭 I'm currently working on [mention what you're working on].
-- 🌱 I'm currently learning [mention what you're learning].
-- 👯 I'm looking to collaborate on [mention projects or types of projects you're interested in].
-- 💬 Ask me about [mention your areas of expertise].
-- 📫 How to reach me: [your email address].
+- 🔭 I'm currently working on CogniBrowse-Android Web Browser.
+- 🌱 I'm currently pursuing Computer Engineering.
+- 👯 I'm looking to collaborate on anything that is challenging.
+- 💬 Ask me about kindness.
+- 📫 How to reach me: wassafali@zhcet.ac.in.
 
 ## Projects
 
@@ -31,16 +30,13 @@ Here are some projects I'm proud of:
 
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wassaf001&show_icons=true)
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourname)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourtwitterhandle)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/wassaf-ali)
 - Portfolio: [Your Website](https://yourwebsite.com)
 
-## Blog
 
-You can read some of my articles on [Medium](https://medium.com/@yourmediumusername) or [Dev.to](https://dev.to/yourdevtousername).
 
 Thanks for visiting my profile!
