@@ -1,7 +1,7 @@
 # Hello, I'm Stuck 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue)](https://www.linkedin.com/in/wassaf-ali)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-orange)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wassaf-blue)](https://www.linkedin.com/in/wassaf-ali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://yourwebsite.com)
 
 Welcome to my GitHub profile! I'm a passionate learner with a keen interest in creating solutions.
 
