@@ -23,9 +23,9 @@ Here are some projects I'm proud of:
 
 ## Skills
 
-- Languages: [List programming languages you know]
-- Frameworks: [List frameworks you're familiar with]
-- Tools: [List tools you use]
+- Languages: 
+- Frameworks: 
+- Tools: 
 - ...
 
 ## Stats
