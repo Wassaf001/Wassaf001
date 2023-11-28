@@ -1,4 +1,4 @@
-# Hello, I'm Stuck 👋
+# Hello, I'm Wassaf 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wassaf-blue)](https://www.linkedin.com/in/wassaf-ali)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://yourwebsite.com)
@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate learner with a keen interest in c
 
 ## About Me
 
-- 🔭 I'm currently working on CogniBrowse-Android Web Browser.
+- 🔭 I'm currently working on an Android Web Browser.
 - 🌱 I'm currently pursuing Computer Engineering.
 - 👯 I'm looking to collaborate on anything that is challenging.
 - 💬 Ask me about development.
@@ -17,16 +17,15 @@ Welcome to my GitHub profile! I'm a passionate learner with a keen interest in c
 
 Here are some projects I'm proud of:
 
-- [Project 1](https://github.com/yourusername/project1): Brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): Brief description of Project 2.
-- ...
+- [Project 1](https://github.com/Wassaf001/Image_Classifier_to_identify_different_flower_breeds): An image classifier to identify different flower breeds.
+- [Project 2](https://github.com/Wassaf001/CogniBrowse): Ongoing Android Web Browser Project.
+
 
 ## Skills
 
-- Languages: C, C++, Java, Python
+- Languages: C, C++, Java, Python, Latex
 - Frameworks: VueJS, Flask
-- Tools: 
-- ...
+- Tools: Git
 
 ## Stats
 
