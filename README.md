@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate learner with a keen interest in c
 - 🔭 I'm currently working on CogniBrowse-Android Web Browser.
 - 🌱 I'm currently pursuing Computer Engineering.
 - 👯 I'm looking to collaborate on anything that is challenging.
-- 💬 Ask me about kindness.
+- 💬 Ask me about development.
 - 📫 How to reach me: wassafali@zhcet.ac.in.
 
 ## Projects
@@ -23,8 +23,8 @@ Here are some projects I'm proud of:
 
 ## Skills
 
-- Languages: 
-- Frameworks: 
+- Languages: C, C++, Java, Python
+- Frameworks: VueJS, Flask
 - Tools: 
 - ...
 
