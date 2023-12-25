@@ -27,6 +27,9 @@ Here are some projects I'm proud of:
 - Frameworks: VueJS, Flask
 - Tools: Git
 
+[![An image of @Wassaf001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wassaf001)](https://www.holopin.io/@wassaf001#badges)
+
+
 ## Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wassaf001&show_icons=true)
