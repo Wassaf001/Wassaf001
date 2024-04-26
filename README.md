@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate learner with a keen interest in c
 
 ## About Me
 
-- 🔭 I'm currently working on an Android Web Browser.
+- 🔭 I'm currently learning development.
 - 🌱 I'm currently pursuing Computer Engineering.
 - 👯 I'm looking to collaborate on anything that is challenging.
 - 💬 Ask me about development.
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate learner with a keen interest in c
 Here are some projects I'm proud of:
 
 - [Project 1](https://github.com/Wassaf001/Image_Classifier_to_identify_different_flower_breeds): An image classifier to identify different flower breeds.
-- [Project 2](https://github.com/Wassaf001/CogniBrowse): Ongoing Android Web Browser Project.
+- [Project 2](https://github.com/Wassaf001/CogniBrowse): Android Web Browser Project.
 
 
 ## Skills
@@ -32,13 +32,11 @@ Here are some projects I'm proud of:
 
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wassaf001&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wassaf001&show_icons=true&profile_views=true)
 
 ## Get in Touch
 
 - LinkedIn: [Wassaf A.](https://www.linkedin.com/in/wassaf-ali)
 - Portfolio: [Website](https://yourwebsite.com)
-
-
 
 Thanks for visiting my profile!
