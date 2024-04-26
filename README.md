@@ -32,7 +32,9 @@ Here are some projects I'm proud of:
 
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wassaf001&show_icons=true&profile_views=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wassaf001&show_icons=true)
+
+![Profile views](https://komarev.com/ghpvc/?username=Wassaf001&color=blueviolet)
 
 ## Get in Touch
 
