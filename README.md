@@ -1,7 +1,5 @@
 # Hello, I'm Wassaf 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wassaf-blue)](https://www.linkedin.com/in/wassaf-ali)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](http://wassaf.co/)
 
 Welcome to my GitHub profile! I'm a passionate learner with a keen interest in creating innovative solutions.
 
