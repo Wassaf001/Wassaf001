@@ -24,7 +24,7 @@ Here are some projects I'm proud of:
 - **Frameworks:** AngularJS
 - **Tools:** Git, Unix Shell, VS Code
 
-[![An image of @Wassaf001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sayyedarib)](https://holopin.io/@wassaf001)
+[![An image of @Wassaf001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wassaf001)](https://holopin.io/@wassaf001)
 [![An image of @Wassaf001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wassaf001)](https://www.holopin.io/@wassaf001#badges)
 
 ## Stats
