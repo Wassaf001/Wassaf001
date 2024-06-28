@@ -1,5 +1,5 @@
                         
-<h2 align="left"> Hello, I'm Wassaf <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="55"> </h2>
+<h2 align="left"> Hello, I'm Wassaf"</h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/Wassaf001)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wassaf-ali)
