@@ -17,13 +17,6 @@ Welcome to my GitHub profile! I'm a passionate learner with a keen interest in c
 - 💬 Ask me about development and technology.
 - 📫 How to reach me: [wassafali@zhcet.ac.in](mailto:wassafali@zhcet.ac.in).
 
-## Projects
-
-Here are some projects I'm proud of:
-
-- [**Image Classifier to Identify Different Flower Breeds**](https://github.com/Wassaf001/Image_Classifier_to_identify_different_flower_breeds): A sophisticated image classifier for flower breeds.
-- [**CogniBrowse**](https://github.com/Wassaf001/CogniBrowse): An Android web browser project with enhanced features.
-
 ### Languages Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
