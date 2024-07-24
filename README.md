@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wassaf-ali)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:wassafali@zhcet.ac.in)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-black?&logo=leetcode&logoColor=orange)](https://leetcode.com/u/stuck001/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?&logo=hackerrank&logoColor=orange)](https://www.hackerrank.com/profile/wassaf_a)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-black?&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/wassaf_a)
 
 Welcome to my GitHub profile! I'm a passionate learner with a keen interest in creating innovative solutions.
 
