@@ -46,15 +46,10 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
 <p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote">
   <img src="https://github-readme-stats.vercel.app/api?username=Wassaf001&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wassaf001&theme=dark&hide_border=false" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wassaf001&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
 </p>
-
-### ✍️ Quote of the Day
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Wassaf001&color=blue" alt="Profile Views">
