@@ -25,7 +25,7 @@
 - 🔭 Exploring development projects.
 - 🌱 B.Tech in Computer Engineering.
 - 👯 Open to collaboration.
-- 💬 Ask me about development and tech.
+- 💬 Ask me about development and AI.
 - 📫 Reach me at: <a href="mailto:wassafali@zhcet.ac.in">wassafali@zhcet.ac.in</a>.
 
 [![Holopin Badges](https://holopin.me/wassaf001)](https://www.holopin.io/@wassaf001)
