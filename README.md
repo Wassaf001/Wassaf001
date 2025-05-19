@@ -30,5 +30,5 @@ Driven by curiosity and focused on building impactful software products.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Wassaf001&theme=transparent&hide_border=true&show_icons=true&count_private=true&hide_rank=true" alt="GitHub Stats" height="140" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Quote" height="140" />
+<!--   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Quote" height="140" /> -->
 </p>
