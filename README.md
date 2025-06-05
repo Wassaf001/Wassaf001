@@ -22,7 +22,7 @@
 **Software Engineer | Constantly Improving**  
 Driven by curiosity and focused on building impactful software products.
 
-- Currently exploring AI, developer tools, and learning platforms  
+- Currently exploring AI, developer tools, and software paradigms  
 - Open to collaboration and innovative problem-solving  
 - Contact: wassafali@zhcet.ac.in
 
